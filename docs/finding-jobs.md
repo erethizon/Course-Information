@@ -36,3 +36,5 @@
 10. [Audubon Career Center](https://www.audubon.org/about/careers)
 11. [GIS Jobs Clearinghouse](https://www.gjc.org/)
 12. [GIS Lounge job listings](https://www.gislounge.com/gis-job-listings/)
+
+#### Know of a resource that should be added to this list? [Send it to me!](mailto:barthelmess@stlawu.edu?subject=add%20github%20link]) 
