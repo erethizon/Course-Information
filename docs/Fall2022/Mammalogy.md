@@ -9,4 +9,4 @@ Mammalogy is, as it sounds, the study of mammals.  In this class, we will study 
 
 ## Pre-requisites: Biology 101 and Biology 102. You must also register for the lab section.
 
-## Have questions? email: barthelmess@stlawu.edu
+## Have questions? [email me!](mailto:barthelmess@stlawu.edu?subject=question%20about%20mammalogy)

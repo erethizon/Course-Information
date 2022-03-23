@@ -9,4 +9,4 @@ A fundamental aspect of practicing biology-related science (be it through the le
 
 ## Pre-requisites: Biology 101 and Biology 102 and at least one Biology class at the 200 or above level. STAT 113 (Introduction to Statistics) is recommended. Students from outside of Biology who lack the prerequisites may petition Dr. Barthelmess for admission to the course.
 
-## Have questions? email: barthelmess@stlawu.edu
+## Have questions? [email me!](mailto:barthelmess@stlawu.edu?subject=question%20about%20biostats)
