@@ -1,7 +1,8 @@
 # Biology 227 Fall 2022
 
 ## Mammalogy with Lab
-## MWF 9:20 - 10:20 am, JHS 112
+## Lecture MWF 9:20 - 10:20 am, JHS 112
+## Lab W 1:00 - 4:00 pm, JHS 112
 ## Dr. Erika Barthelmess
 
 ## Description
