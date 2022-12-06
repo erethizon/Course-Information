@@ -10,6 +10,7 @@
 
 ## Career Information
 
-[How much training do I need for specific jobs?](/how-much-school.md)
+[How much training do I need for specific jobs?](/prof_development/how-much-school.md)
 
-[Preparing for and seeking jobs in conservation](/finding-jobs.md)
+
+[Preparing for and seeking jobs in conservation](/prof_development/finding-jobs.md)
