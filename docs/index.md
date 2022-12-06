@@ -12,5 +12,10 @@
 
 [How much training do I need for specific jobs?](/prof_development/how-much-school.md)
 
+[What are some relevant professional societies?][def]
+
 
 [Preparing for and seeking jobs in conservation](/prof_development/finding-jobs.md)
+
+
+[def]: /prof_development/prof-societies.md
