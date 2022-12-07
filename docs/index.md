@@ -6,7 +6,9 @@
 
 [Mammalogy with lab - Biology 227](/Fall2022/Mammalogy.md)
 
+
 [Biostatistics: Dealing with data - Biology 303](/Fall2022/Biostats.md)
+
 
 ## Career Information
 [How much training do I need for specific jobs?](/prof_development/how-much-school.md)
