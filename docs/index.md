@@ -16,6 +16,6 @@
 [What are some relevant professional societies?](/prof_development/prof-societies.md)
 
 
-[Preparing for and seeking jobs in conservation](/prof_development/finding-jobs.md)
+[Preparing for and seeking jobs in ecology and conservation](/prof_development/finding-jobs.md)
 
 
