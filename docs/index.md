@@ -2,12 +2,10 @@
 
 ## Course Information
 
-### Fall 2022
-
-[Mammalogy with lab - Biology 227](/Fall2022/Mammalogy.md)
+[Mammalogy with lab - Biology 227](/Mammalogy.md)
 
 
-[Biostatistics: Dealing with data - Biology 303](/Fall2022/Biostats.md)
+[Biostatistics: Dealing with data - Biology 303](/Biostats.md)
 
 
 ## Career Information
