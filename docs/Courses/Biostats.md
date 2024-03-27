@@ -1,7 +1,7 @@
 # Biostatistics: Dealing with Data!
 
-## Biology 303 Fall 2022
-## MWF 10:30 - 11:30 am, JHS 112
+## Biology 303 Fall 2024
+## MWF 9:20 - 10:20 am, JHS 112
 ## Dr. Erika Barthelmess
 
 ## Description
@@ -14,6 +14,6 @@ STAT 113 (Introduction to Statistics) is recommended. Students from outside of B
 
 <center>
 
-![A group of lions](/docs/media/coffee_code.png)
+![A group of lions](docs/media/coffee_code.png)
 
 <center>

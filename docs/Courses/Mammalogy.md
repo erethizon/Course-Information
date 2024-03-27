@@ -18,6 +18,6 @@ By the end of the semester, you will be familiar with and will have learned to i
 
 <center>
 
-![A group of lions](/docs/media/lions.png)
+![A group of lions](docs/media/lions.png)
 
 <center>
