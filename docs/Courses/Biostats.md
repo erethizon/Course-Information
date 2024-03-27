@@ -16,6 +16,4 @@ STAT 113 (Introduction to Statistics) is recommended. Students from outside of B
 
 ## Have questions? [email me!](mailto:barthelmess@stlawu.edu?subject=question%20about%20biostats)
 
-<center>
 ![Coffee and Code](../media/coffee_code.png)
-<center>
