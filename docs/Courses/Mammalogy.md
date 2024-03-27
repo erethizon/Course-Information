@@ -21,4 +21,6 @@ By the end of the semester, you will be familiar with and will have learned to i
 
 ## Have questions? [email me!](mailto:barthelmess@stlawu.edu?subject=question%20about%20mammalogy)
 
-![A group of lions](docs/media/lions.png)
+<center>
+![A group of lions](../media/lions.png)
+<center>
