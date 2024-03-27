@@ -2,10 +2,10 @@
 
 ## Course Information
 
-[Mammalogy with lab - Biology 227](/Mammalogy.md)
+[Mammalogy with lab - Biology 227](/Courses/Mammalogy.md)
 
 
-[Biostatistics: Dealing with data - Biology 303](/Biostats.md)
+[Biostatistics: Dealing with data - Biology 303](/Courses/Biostats.md)
 
 
 ## Career Information
