@@ -15,3 +15,6 @@
 [Preparing for and seeking jobs in ecology and conservation](prof_development/finding-jobs.md)
 
 [Information about graduate school](prof_development/grad-school.md)
+
+## Cool talk!
+[Come hear Brett Ford '14 talk about dog genomics](brett-talk.html)
