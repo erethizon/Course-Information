@@ -16,4 +16,4 @@ Brett Ford was a Biology major and Math minor while a student at St. Lawrence Un
 
 If you have questions about the seminar, please reach out to Dr. Erika Barthelmess (barthelmess@stlawu.edu).
 
-![\\](../media/dog_relationships.png)
+![\\](/media/dog_relationships.png)
