@@ -6,6 +6,8 @@
 
 [Biostatistics: Dealing with data - Biology 303](Courses/Biostats.md)
 
+[Forest Ecology][Courses/Forest-ecology.md]
+
 ## Career Information
 
 [How much training do I need for specific jobs?](prof_development/how-much-school.md)
@@ -18,3 +20,6 @@
 
 ## Cool talk!
 [Come hear Brett Ford '14 talk about dog genomics](brett-talk.html)
+
+
+[Courses/Forest-ecology.md]: Courses/Forest-ecology.md
