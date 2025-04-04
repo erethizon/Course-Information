@@ -18,8 +18,3 @@
 
 [Information about graduate school](prof_development/grad-school.md)
 
-## Cool talk!
-[Come hear Brett Ford '14 talk about dog genomics](brett-talk.html)
-
-
-[Courses/Forest-ecology.md]: Courses/Forest-ecology.md
