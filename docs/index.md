@@ -6,7 +6,7 @@
 
 [Biostatistics: Dealing with data - Biology 303](Courses/Biostats.md)
 
-[Forest Ecology][Courses/Forest-ecology.md]
+[Forest Ecology](Courses/Forest-ecology.md)
 
 ## Career Information
 
