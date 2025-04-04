@@ -1,11 +1,7 @@
 
 # Mammalogy with Lab
 
-## Biology 227 Fall 2024
-
-## Lecture MWF 10:30 - 11:30 am, JHS 112
-
-## Lab W 1:00 - 4:00 pm, JHS 112
+## Biology 227 Not offered Fall 2025
 
 ## Dr. Erika Barthelmess
 

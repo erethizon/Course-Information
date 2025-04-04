@@ -1,8 +1,7 @@
 # Biostatistics: Dealing with Data
 
-## Biology 303 Fall 2024
+## Biology 303 Not offered Fall 2025
 
-## MWF 9:20 - 10:20 am, JHS 112
 
 ## Dr. Erika Barthelmess
 
