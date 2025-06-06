@@ -17,4 +17,3 @@
 [Preparing for and seeking jobs in ecology and conservation](prof_development/finding-jobs.md)
 
 [Information about graduate school](prof_development/grad-school.md)
-
